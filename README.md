@@ -1,8 +1,6 @@
-# React + Vite
+# PROJECT - FIREBASE CONTACT APP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img width="1158" alt="image" src="https://user-images.githubusercontent.com/50476777/239992898-2712d5c5-e650-43b9-a177-92401a5a051c.png">
 
-Currently, two official plugins are available:
+Figma Design URL - https://www.figma.com/file/rephrU2FVgN8MFz6XhnP51/Learn-React-with-10-Projects?type=design&node-id=0-1&t=orp3GQEAXhmtQcgG-0
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
